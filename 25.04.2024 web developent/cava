@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="ro">
+  <head>
+    <link
+      href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA/4gAAABDlAAAAP8AAKjWAJnW/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIiAAAiIgAAAiIAACIgAAAAERABEQAAAFURERERVQAAVVERERVVAABVEUEUE1UAADMzEREzMwAAAzMTMTMwAAAAMxMzAAAAAAAFVVVVAAAAAiVVUiIgAAACUiVVJVUAAAJSVVJVUAAAACIlUlAAAAAAMzMzMzAAAAADMzMAAADDwwAA48cAAPGPAADAAwAAwAMAAMADAADAAwAA4AcAAPA/AAD4DwAA4AcAAOADAADgBwAA8B8AAPAHAAD4PwAA"
+      rel="icon"
+      type="image/x-icon"
+    />
+    <title>GameJuniorPro-7</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="test.css" />
+
+</head>
+
+  <body>
+    <header>
+      <h1 style="background-color: rgb(35, 119, 29)" class="center">GameJuniorPro-7</h1>
+    </header>
+    <section>
+      <p class="center">Bine ati venit pe siteul GameJuniorPro-7</p>
+      <p class="center">
+        Aici puteti viziona videoclipuri cu jocuri de pe Nintendo Switch si sunt
+        jucate de un copil de doar 7 ani . Selectand un videoclip care doriti sa
+        il vizionati va indemnam mai departe sa dati si un like daca acesta va
+        placut si poate chear o abonare . Aceste lucruri il poate ajuta pe acest
+        copil care are canalul GameJuniorPro sa fie incurajat si sa creeze si
+        mai mult continut.
+      </p>
+    </section>
+    <div>
+      <h2>Mario vs Donkeykong w1</h2>
+    </div>
+    <iframe
+      width="560"
+      height="315"
+      src="https://www.youtube.com/embed/JDQTvF-7IVc?si=4tlccHuEgOSNxmRN"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen
+    >
+    </iframe>
+
+    <p>
+      <a href="https://www.youtube.com/@JuniorGamePro-7" target="iframe_a"
+        >@JuniorGamePro-7</a
+      >
+    </p>
+
+    <p>
+      Mario and Tod set out to save the toys from Donkey Kong's hand. Watch
+      until the end and help the two with Like and Subscribe to succeed. I wish
+      you luck
+    </p>
+    <div>
+      <h2>Mario vs Donkeykong w2</h2>
+    </div>
+    <iframe
+      width="560"
+      height="315"
+      src="https://www.youtube.com/embed/c9bDVB12TqM?si=b4i6MSOQE8sWvNEL"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen
+    >
+    </iframe>
+    <p>
+      <a href=" https://www.youtube.com/@JuniorGamePro-7" target="iframe_a"
+        >@JuniorGamePro-7</a
+      >
+    </p>
+    <p>
+      Mario and Tod set out to save the toys from Donkey Kong's hand. Watch
+      until the end and help the two with Like and Subscribe to succeed. I wish
+      you luck
+    </p>
+
+    <div>
+      <h2>Mario vs Donkeykong w3</h2>
+    </div>
+    <iframe
+      width="560"
+      height="315"
+      src="https://www.youtube.com/embed/-ASYjb8g49Q?si=eStivwORmuYlzaQi"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen
+    >
+    </iframe>
+    <p>
+      <a href="https://www.youtube.com/@JuniorGamePro-7" target="iframe_a"
+        >@JuniorGamePro-7</a
+      >
+    </p>
+    <p>
+      Mario and Tod set out to save the toys from Donkey Kong's hand. Watch
+      until the end and help the two with Like and Subscribe to succeed. I wish
+      you luck
+    </p>
+
+    <div>
+      <h2>Mario vs Donkeykong w4</h2>
+    </div>
+    <iframe
+      width="560"
+      height="315"
+      src="https://www.youtube.com/embed/vYJONZWxHFw?si=CBQJ1gi3S7MfoGh2"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen
+    >
+    </iframe>
+    <p>
+      <a href="https://www.youtube.com/@JuniorGamePro-7" target="iframe_a"
+        >@JuniorGamePro-7</a
+      >
+    </p>
+    <p>
+      Mario and Tod set out to save the toys from Donkey Kong's hand. Watch
+      until the end and help the two with Like and Subscribe to succeed. I wish
+      you luck
+    </p>
+  </body>
+</html>
+
+<footer>
+  <p>
+    Aceasta pagina este o demonstratie de pagina web creata de Gabriel
+    Gherghesanu.
+  </p>
+  <p>"pagina nu este inca finalizata"</p>
+</footer>

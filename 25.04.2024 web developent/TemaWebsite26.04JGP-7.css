@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    background-color: rgb(0, 90, 170);
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    
+     }
+  
+  /* Style the header */
+  .header {
+    padding: 20px;
+   background-color: #f30909;
+    text-align: left ;
+    
+  }
+  
+  
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: red;
+  }
+  
+
+  
